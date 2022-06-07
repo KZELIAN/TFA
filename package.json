@@ -1,0 +1,45 @@
+{
+    "name": "professor-jays-programming-classes",
+    "version": "1.0.1",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Mirza Hassan",
+    "license": "LicenseRef-LICENSE",
+    "devDependencies": {
+        "browser-sync": "^2.27.7",
+        "cssnano": "^5.0.14",
+        "gulp": "^4.0.2",
+        "gulp-imagemin": "^8.0.0",
+        "gulp-postcss": "^9.0.1",
+        "gulp-rename": "^2.0.0",
+        "gulp-sass": "^5.0.0",
+        "gulp-terser": "^2.1.0",
+        "postcss": "^8.4.5",
+        "sass": "^1.45.1",
+        "terser": "^5.10.0"
+    },
+    "description": "A 3D game to learn JavaScript programming",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/HassanmBY/professor-jays-programming-classes.git"
+    },
+    "keywords": [
+        "Three.js",
+        "Javascript",
+        "WebGL",
+        "Programming",
+        "Game",
+        "3D",
+        "Game"
+    ],
+    "bugs": {
+        "url": "https://github.com/HassanmBY/professor-jays-programming-classes/issues"
+    },
+    "homepage": "https://github.com/HassanmBY/professor-jays-programming-classes#readme",
+    "dependencies": {
+        "postprocessing": "^6.26.3"
+    }
+}
