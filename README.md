@@ -1,7 +1,7 @@
-#instructions pour lancer le projet avec gulp
+# instructions pour lancer le projet avec gulp
 
-##initialisez le projet
+## initialisez le projet
 - lancer la commande "npm i"
 
-##lancer gulp
+## lancer gulp
 - taper "gulp" dans le terminal
