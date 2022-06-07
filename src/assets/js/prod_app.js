@@ -5,21 +5,6 @@ let year = date.getFullYear();
 let outputCopyright = document.querySelector("#js__copyright");
 outputCopyright.innerHTML = year;
 
-const scrollsDroite = document.querySelectorAll(".scroll--droite");
-for (let scrollDroite of scrollsDroite) {
-    scrollDroite.style.transform = "translate3d(-100px, 0, 0)";
-}
-
-const scrollsGauche = document.querySelectorAll(".scroll--gauche");
-for (let scrollGauche of scrollsGauche) {
-    scrollGauche.style.transform = "translate3d(100px, 0, 0)";
-}
-
-const scrollsHaut = document.querySelectorAll(".scroll--haut");
-for (let scrollHaut of scrollsHaut) {
-    scrollHaut.style.transform = "translate3d(0, 400px, 0)";
-}
-
 const scrolls = document.querySelectorAll(".scroll");
 for (let scrollElem of scrolls) {
     scrollElem.style.opacity = "0";
