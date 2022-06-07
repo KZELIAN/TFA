@@ -269,7 +269,7 @@ video:-webkit-full-page-media {
 
 video {
   object-fit: contain;
-  max-width: 100%;
+  min-width: 100%;
   margin-bottom: 150px;
 }
 
